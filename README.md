@@ -3,7 +3,7 @@ Meu nome é Johnny William , sou de Sergipe - Brasil 🌎, sou estudante de ciê
 
 Vou utilizar meu perfil do github para compartilhar projetos feitos na faculdade ou por mim mesmo afins de compartilhar com quem quer que seja e esteja interessado em algo.
 
-#### "Humildade não te faz melhor do que ninguém, mas te faz diferente de muitos." 🧠
+#### "Humildade não te faz melhor do que ninguém, mas te faz diferente de muitos." 🧠 
 
 Também estou nessas plataformas 👇
 
