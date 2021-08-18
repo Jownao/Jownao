@@ -1,5 +1,5 @@
 # Olá, Mundo! Seja bem-vindo(a) 😎👍
-Meu nome é Johnny William , sou de Sergipe - Brasil 🌎, sou estudante de ciências da computação desde 2019 e atualmente estou no 5º periodo do curso.🙋‍♂️🖥
+Meu nome é Johnny William , sou de Sergipe - Brasil 🌎, sou estudante de ciências da computação desde 2019 e atualmente estou no 6º periodo do curso.🙋‍♂️🖥
 
 Vou utilizar meu perfil do github para compartilhar projetos feitos na faculdade ou por mim mesmo afins de compartilhar com quem quer que seja e esteja interessado em algo.
 
