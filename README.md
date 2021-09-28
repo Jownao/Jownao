@@ -30,4 +30,3 @@ I'm on these platforms too 👇
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jownao&" alt="jow" /></p>
 
- alt="python" width="40" height="40" 
