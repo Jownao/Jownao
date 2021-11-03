@@ -25,6 +25,7 @@ I'm on these platforms too 👇
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"  alt="github" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" />
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
+<img src="https://www.alura.com.br/assets/api/cursos/512/swagger-documentando-apis.png" alt="swagger" width="40" height="40" />
 
 --------------------------
 <p>
