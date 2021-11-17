@@ -1,10 +1,10 @@
 # Hello World! Welcome 😎👍
-My name is Johnny William, I'm from Sergipe - Brazil 🌎, I'm a computer science student since 2019 and I'm currently in the 6th period of the course.
+Meu nome é Johnny William, sou de Sergipe - Brasil 🌎, sou estudante de ciências da computação desde 2019 e atualmente estou no 6º período do curso.
 
-I will use my github profile to share projects done in college or by myself to share with anyone who is interested in something.
+Usarei meu perfil no github para compartilhar projetos feitos na faculdade ou por autoria própria com intuito de contribuir com todos que encontrarem algo que lhe sejam útil nos meus repositórios.  
 
 
-I'm on these platforms too 👇
+Eu também estou nessas plataformas 👇
 
 [![Linkedin](https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465) ](https://www.linkedin.com/in/johnny-william/)
 [![Github](https://camo.githubusercontent.com/fbc3df79ffe1a99e482b154b29262ecbb10d6ee4ed22faa82683aa653d72c4e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465) ](https://github.com/Jownao)
