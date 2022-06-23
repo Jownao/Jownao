@@ -8,9 +8,10 @@ Usarei meu perfil no github para compartilhar projetos feitos na faculdade ou po
   <a href="https://jownao.github.io/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jownao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jownao&layout=compact&langs_count=7&theme=tokyonight"/>
+  <p align="center"><img align="center"src="https://profile-counter.glitch.me/Jownao/count.svg"/></p>
 </div>
   
-  
+ 
   
   
 ##
