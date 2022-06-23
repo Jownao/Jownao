@@ -41,5 +41,5 @@ Usarei meu perfil no github para compartilhar projetos feitos na faculdade ou po
 
 ![Snake animation](https://github.com/Jownao/Jownao/blob/output/github-contribution-grid-snake.svg)
   
-![Metrics](https://github.com/Jownao/Jownao/blob/main/github-metrics.svg)
+
 
