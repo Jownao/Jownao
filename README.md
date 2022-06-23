@@ -38,6 +38,6 @@ Usarei meu perfil no github para compartilhar projetos feitos na faculdade ou po
   <a href="https://www.linkedin.com/in/johnny-william/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-
+![Snake animation](https://github.com/Jownao)
 
 
