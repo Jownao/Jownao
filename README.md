@@ -24,7 +24,7 @@ Usarei meu perfil no github para compartilhar projetos feitos na faculdade ou po
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  alt="git" width="40" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"  alt="github" width="40" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" />
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/576257495857889280/989620466031394876/unknown.png">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://v1.padlet.pics/1/image.webp?t=c_limit%2Cdpr_1%2Ch_512%2Cw_512&url=https%3A%2F%2Fstorage.googleapis.com%2Fpadlet-uploads%2F1906438785%2F01d232e7f3dee7506e347a76e7e939ee%2F75736766_fe9d_483d_8bbb_f5e652d3497b.jpeg%3FExpires%3D1679088188%26GoogleAccessId%3D778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%2540developer.gserviceaccount.com%26Signature%3D3%252F6Eo95PWeerrVUDWQyqM9apMGQNQqRsWOl2PIZ%252FS%252FYAHbi0JD3lAr46vZQ3tUgzJEgACW4GIivgBVUDCjYHHSgq23HKob72gXuPJ%252FDJRPFw4%252BXbsO8zQKFqiBRz1kDii6yARLGl9TCGEcCNPIytSJ6Uj6fttdNfiiWqZlGDw40%253D%26original-url%3Dhttps%253A%252F%252Fpadlet-uploads.storage.googleapis.com%252F1906438785%252F01d232e7f3dee7506e347a76e7e939ee%252F75736766_fe9d_483d_8bbb_f5e652d3497b.jpeg">
 </div>
 
 ##
