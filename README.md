@@ -21,6 +21,7 @@ Usarei meu perfil no github para compartilhar projetos feitos na faculdade ou po
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="60" height="60" />
     <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" alt="powerbi" width="60" height="60" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="sqlserver " width="60" height="60" />
+    <img width="80" alt="apache-spark" src="https://user-images.githubusercontent.com/50759662/227187843-edf602ed-7a76-4847-bc25-8f055b75f6d0.png">
     <img width="100" alt="scikit-learn" src="https://user-images.githubusercontent.com/50759662/227186459-27fa3b11-0dc8-46e8-8c21-bddfd0c80d8c.png">
     <img src="https://user-images.githubusercontent.com/50759662/227186224-3013ce50-473e-4fe7-ac3b-fbbfd72741f1.png" alt="sqlserver " width="60" height="60" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="60" height="60">
