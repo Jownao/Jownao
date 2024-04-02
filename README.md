@@ -1,5 +1,5 @@
 # Hello World! Welcome 😎👍
-Meu nome é Johnny, sou de Sergipe - Brasil 🌎, sou formado em ciências da computação e atualmente estou trabalhando no área de Prevençâo à Fraude (Dados)
+Meu nome é Johnny, sou de Sergipe - Brasil 🌎, sou formado em ciências da computação e atualmente estou me especializando como Analista/Engenheiro de Dados
 
 Usarei meu perfil no github para compartilhar projetos feitos na faculdade ou por autoria própria com intuito de contribuir com todos que encontrarem algo que lhe sejam útil nos meus repositórios.  
 
