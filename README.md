@@ -1,7 +1,7 @@
 # Hello World! Welcome 😎👍
 Meu nome é Johnny, sou de Sergipe - Brasil 🌎, sou formado em ciências da computação e atualmente estou me especializando como Analista/Engenheiro de Dados
 
-Usarei meu perfil no github para compartilhar projetos feitos na faculdade ou por autoria própria com intuito de contribuir com todos que encontrarem algo que lhe sejam útil nos meus repositórios.  
+Usarei meu perfil no github para compartilhar projetos feitos por autoria própria com intuito de contribuir com todos que encontrarem algo que lhe sejam útil nos meus repositórios.  
 
 </div>
 <div align="center">
@@ -37,8 +37,6 @@ Usarei meu perfil no github para compartilhar projetos feitos na faculdade ou po
 ##
 
 <div> 
-  <a href="https://www.youtube.com/channel/UCOw5ncIm8Mz9W-O9YLgN5VA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/jownao" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/johnny-william/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
