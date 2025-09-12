@@ -1,19 +1,21 @@
-# Hello World! Welcome 😎👍
+# Hello, World! Welcome 🚀
 
-Olá, sou Johnny, um entusiasta de dados de Sergipe, Brasil 🌎. Formado em Ciências da Computação, atualmente me especializo em Business Intelligence, Big Data e Inteligência Artificial. Tenho experiência com análise de dados, criação de pipelines de ETL e engenharia de dados. Neste espaço, compartilho projetos de autoria própria voltados para soluções práticas com Python, SQL, Machine Learning e DataOps.
+Hi, I'm Johnny, a Data Engineer and Analyst from Brazil 🌎 with a passion for building practical, data-driven solutions. With a background in Computer Science and a focus on BI, Big Data, and AI, I specialize in data analysis, ETL pipeline development, and data engineering.
+
+This is where I build and share open-source projects using Python, SQL, and modern DataOps practices. Feel free to explore and get in touch!
 
 <div> 
   <a href="https://www.linkedin.com/in/johnny-william/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://medium.com/@johnnywsevero" target="_blank"><img src="https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white" target="_blank"></a> 
 </div>
 
-## 🚀 Projetos Recentes
-- **[ETL pipeline ](https://github.com/Jownao/ETL_pipeline_json_to_csv_parquet)**: Pipeline de ETL para transformar dados financeiros de JSON para Parquet utilizando Python e DuckDB.
-- **[Sistema CRM e Vendas](https://github.com/Jownao/genai_streamlit)**: Sistema de CRM e Vendas utilizando Streamlit e PostgreSQL para validação e armazenamento de dados.
-- **[CRUD de Vendas com API](https://github.com/Jownao/crudProjectAPI)**: Sistema de CRUD desenvolvido com uma arquitetura robusta utilizando várias ferramentas com o objetivo de criar uma aplicação eficiente e escalável.
+## Featured Projects
+- **[ETL Pipeline](https://github.com/Jownao/ETL_pipeline_json_to_csv_parquet)**: An ETL pipeline to transform financial data from JSON to Parquet using Python and DuckDB.
+- **[CRM & Sales System](https://github.com/Jownao/genai_streamlit)**: A CRM and Sales application built with Streamlit and PostgreSQL, featuring data validation and storage.
+- **[Sales CRUD with API](https://github.com/Jownao/crudProjectAPI)**: A scalable Sales CRUD system with a robust API, designed for efficiency and performance.
 
 
-## 📊 Estatísticas
+## 📊 GitHub Stats
 
 <div align="center">
   <a href="#">
@@ -23,7 +25,7 @@ Olá, sou Johnny, um entusiasta de dados de Sergipe, Brasil 🌎. Formado em Ci�
   </a>
 </div>
 
-## 💻 Tecnologias e Ferramentas
+## 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -49,9 +51,5 @@ Olá, sou Johnny, um entusiasta de dados de Sergipe, Brasil 🌎. Formado em Ci�
 ![Render](https://img.shields.io/badge/Render-00979D?logo=render&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff)
 
-
-
-
-## 🌱 Contribuindo para a Comunidade
-Compartilho meus aprendizados e soluções em projetos de código aberto, ajudando outros profissionais a encontrarem insights e otimizarem suas operações de dados.
-
+## 🌱 Community Contributions
+I actively contribute to the open-source community by sharing practical data solutions. My goal is to help other professionals discover valuable insights and streamline their data operations.
