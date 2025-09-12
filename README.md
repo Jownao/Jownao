@@ -5,7 +5,7 @@ Hi, I'm Johnny, a Data Engineer and Analyst from Brazil 🌎 with a passion for 
 This is where I build and share open-source projects using Python, SQL, and modern DataOps practices. Feel free to explore and get in touch!
 
 <div> 
-  <a href="https://www.linkedin.com/in/johnny-william/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/johnnycostaa/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://medium.com/@johnnywsevero" target="_blank"><img src="https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white" target="_blank"></a> 
 </div>
 
