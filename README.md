@@ -142,10 +142,6 @@ class JohnnyCosta:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Jownao&show_icons=true&theme=dracula&bg_color=00000000&hide_border=true&count_private=true&hide=commits&hide_rank=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jownao&layout=compact&theme=dracula&bg_color=00000000&hide_border=true&langs_count=8"/>
-</div>
-<div align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Jownao&theme=dracula&hide_border=true&background=00000000&card_width=850"/>
 </div>
 
