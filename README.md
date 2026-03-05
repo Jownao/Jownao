@@ -21,12 +21,12 @@ class JohnnyCosta:
     role       = ["Data Engineer", "Data Analyst"]
     location   = "Aracaju, Brazil 🌎"
     education  = "B.Sc. Computer Science + 2x Postgraduate (Data Engineering & Software Engineering)"
-    languages  = {"Portuguese": "Native", "English": "C1"}
+    languages  = {"Portuguese": "Native", "English": "B2"}
     currently  = "Building data pipelines on GCP | Learning AWS & Databricks"
     open_to    = "Remote opportunities with US-based companies"
 
     stack = {
-        "pipelines"    : ["Python", "SQL", "BigQuery", "GCP", "AWS", "Azure Data Factory"],
+        "pipelines"    : ["Python", "SQL", "BigQuery", "GCP", "AWS"],
         "analytics"    : ["Power BI", "Looker Studio", "Streamlit", "DAX", "DuckDB"],
         "engineering"  : ["ETL/ELT", "Docker", "PostgreSQL", "Spark", "dbt"],
         "ml"           : ["Scikit-learn", "Pandas", "Polars"],
